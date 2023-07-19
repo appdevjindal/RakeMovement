@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RakeMovement/static/css/main.e4b415f8.css",
+    "main.js": "/RakeMovement/static/js/main.baa34b1d.js",
+    "static/media/graf-bg.gif": "/RakeMovement/static/media/graf-bg.bf08d52359d966f979a0.gif",
+    "static/media/graf-bg_out.gif": "/RakeMovement/static/media/graf-bg_out.63524bd91a0a79e0f6bf.gif",
+    "static/media/jspl_logo.png": "/RakeMovement/static/media/jspl_logo.51d71b1b10b804149835.png",
+    "index.html": "/RakeMovement/index.html",
+    "main.e4b415f8.css.map": "/RakeMovement/static/css/main.e4b415f8.css.map",
+    "main.baa34b1d.js.map": "/RakeMovement/static/js/main.baa34b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4b415f8.css",
+    "static/js/main.baa34b1d.js"
+  ]
+}
