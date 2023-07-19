@@ -1,0 +1,80 @@
+.Outer_div{
+    width: 100%;
+    height: 70px;
+    background: white;
+    padding-top:0.4%;
+   
+}
+.inner_div{
+    width: 98%;
+    height:50px;
+    margin-left: 1%;
+    
+
+    background: #0073b7;
+
+}
+.New-movement-button {
+    position: relative;
+    background-color: rgb(213, 162, 22);
+    color: white;
+    top: 19.5%;
+    left: 87%;
+    border-radius: 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:none;
+    outline:none;
+    font-size: 1.2vw;
+}
+@media screen and (max-width: 400px) {
+    /* Add additional styles for screens with max width of 768px */
+    .New-movement-button {
+        font-size: 1.2vw;
+        top: 25%;
+        left: 75%;
+    }
+}
+.New-movement-button:hover{
+    color: white;
+    background: rgb(161, 111, 2);
+}
+
+.icon-plus {
+    margin-right: 1px;
+    margin-left: 8px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.text-new {
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.New_Movement_Select_option,.Loaded_type_New_Movement_Button{
+    width:99%;
+    height: 25px;
+    border: none;
+}
+.New_Movement_Select_option:focus,
+.Loaded_type_New_Movement_Button:focus{
+    border: none;
+    outline: none;
+}
+.Create_rake_id_button{
+    border:none;
+    margin-top: 20px;
+    width: 150px;
+    height:30px;
+    color: white;
+    opacity: 0.6;
+    background: rgb(161, 111, 2);
+    font-size: 14px;
+
+}
+.Create_rake_id_button:hover{
+    opacity: 1;
+}
